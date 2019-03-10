@@ -18,8 +18,8 @@ email: samanthamccallfp18@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   I'm experimenting with Jekyll to decide whether it's my  blog platform of choice. I'm using YAML, Ruby, Jekyll, 
   markup, and who knows what in this experiment. Will it let me build the blog I want? Stay tuned!
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.samanthamccallfp18.com" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "jekyll-blog" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: fpkc18
 github_username:  green64
 
