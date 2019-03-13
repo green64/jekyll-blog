@@ -9,9 +9,9 @@ permalink: "/automatic-for-the-people"
 
 ### Blog automation made simple ... maybe
 
-I stumbled on a [personal blog tweet](https://v6.robweychert.com/blog/2019/02/introducing-tinnitus-tracker) about one man's creative solution to the death of good old concert ticket stubs. Being an avid live music fan myself, I miss the days of reliving my favorite concerts as a pored through my beloved stub collection. 
+I stumbled on a [personal blog tweet](https://v6.robweychert.com/blog/2019/02/introducing-tinnitus-tracker){:target="_blank"} about one man's creative solution to the death of good old concert ticket stubs. Being an avid live music fan myself, I miss the days of reliving my favorite concerts as a pored through my beloved stub collection. 
 
-Rob Weychert's site, [Tinnitus Tracker](https://tinnitus.robweychert.com) looks cool, and it's built with Jekyll, a "blog-aware, static site generator for personal, project, or organization sites." After a lot of experimenting, I've decided to ditch re-inventing the wheel -- or in this case blog -- and instead use a headless CMS or similar solution to create a blog that's somewhat automated, still includes my personal style, and provides blog features like comments and archiving. 
+Rob Weychert's site, [Tinnitus Tracker](https://tinnitus.robweychert.com){:target="_blank"} looks cool, and it's built with Jekyll, a "blog-aware, static site generator for personal, project, or organization sites." After a lot of experimenting, I've decided to ditch re-inventing the wheel -- or in this case blog -- and instead use a headless CMS or similar solution to create a blog that's somewhat automated, still includes my personal style, and provides blog features like comments and archiving. 
 
 ### First, the good news
 
