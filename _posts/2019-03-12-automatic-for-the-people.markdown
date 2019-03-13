@@ -9,9 +9,9 @@ permalink: "/automatic-for-the-people"
 
 ### Blog automation made simple ... maybe
 
-I stumbled on a [personal blog tweet](https://v6.robweychert.com/blog/2019/02/introducing-tinnitus-tracker){:target="_blank"} about one man's creative solution to the death of good old concert ticket stubs. Being an avid live music fan myself, I miss the days of reliving my favorite concerts as a pored through my beloved stub collection. 
+I stumbled on a [personal blog tweet](https://v6.robweychert.com/blog/2019/02/introducing-tinnitus-tracker){:target="_blank"} about one man's creative solution to the death of good old concert ticket stubs. Being an avid live music fan myself, I miss the days of reliving my favorite concerts as I pored through my beloved stub collection. 
 
-Rob Weychert's site, [Tinnitus Tracker](https://tinnitus.robweychert.com){:target="_blank"} looks cool, and it's built with Jekyll, a "blog-aware, static site generator for personal, project, or organization sites." After a lot of experimenting, I've decided to ditch re-inventing the wheel -- or in this case blog -- and instead use a headless CMS or similar solution to create a blog that's somewhat automated, still includes my personal style, and provides blog features like comments and archiving. 
+Rob Weychert's site, [Tinnitus Tracker](https://tinnitus.robweychert.com){:target="_blank"} looks cool, and it's built with Jekyll, a "blog-aware, static site generator for personal, project, or organization sites." After a lot of experimenting, I've decided to ditch re-inventing the wheel -- or in this case blog. Instead, I'm going to use a headless CMS or similar solution to create a blog that's somewhat automated, still includes my personal style, and provides blog features like comments and archiving. 
 
 ### First, the good news
 
@@ -25,4 +25,4 @@ Jekyll allows you to create pages in markup, which is what I used for this page.
 
 It can be frustrating experimenting with new technologies, and time-consuming too. But it's incredibly rewarding to tackle a project in a completely new format, work through the errors, draw on previous trial-and-error learning, and finally see the fruits of your labors in your browser. Like my React-Redux experiment and the React-Redux-Firebase project, this may not be my final blog solution. But it's tangible proof of my growth as a developer, and for now, that's enough. 
 
-P.S. I haven't integrated this blog yet with my portfolio, but for now here's a link back to my main site: [samanthamccallfp18.com](https://www.samanthamccallfp18.com){:target="_blank"}. You'll notice that even thought it's in markup, the link still opens in a new window. Yep, there's a version of target=_blank for markup! Who knew? The learning never stops, amirite? 
+P.S. I haven't integrated this blog yet with my portfolio, but for now here's a link back to my main site: [samanthamccallfp18.com](https://www.samanthamccallfp18.com){:target="_blank"}. Because the page was created with markup, I didn't think I could open links in new pages without "target=_blank" after my URL. But guess what? There's a version of that code just for markup! Who knew? The learning never stops, amirite? 
