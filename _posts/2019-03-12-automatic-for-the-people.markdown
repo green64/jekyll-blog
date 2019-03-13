@@ -15,7 +15,7 @@ Rob Weychert's site, [Tinnitus Tracker](https://tinnitus.robweychert.com){:targe
 
 ### First, the good news
 
-Installing Jekyll, which is Ruby based, was a great learning experience. I learned about YAML, which is used to create Jekyll front matter, which defines the template used by the page, whether it has a permalink, URL elements, etc. 
+Installing Jekyll, which is Ruby based, was a great learning experience. I learned about YAML, which is used to create Jekyll front matter. Front matter sounds like brains, and in a way it is because it defines the template used by the page, whether it has a permalink, URL elements, etc. 
 
 As with creating any blog or app or page in a new framework or language, part of the learning comes in getting the new creation to function correctly online. This experience was no exception. I struggled with errors while using Github Pages for the first time, but like the industrious developer I am, I Googled my error that referenced a missing vendor, found a similar Stack Overflow question and answer, and tried that solution. It worked. Voila, my new blog is online. 
 
