@@ -49,6 +49,6 @@ My page is responsive, but I didn't use this particular trick because I wasn't s
 
 ### To blog or not to blog 
 
-Despite everything I learned about CSS slideshows, Grid, Flexbox, and a dash of HTML5 (I used details/summary tags to show/hide the poems about Parker and Posie) I wasn't going to blog about it since I couldn't put it all in my new blog packaging. But then I read an affirming tweet today that said when it comes to acquiring knowledge, there's no shame in not knowing, only in remaining ignorant. "We're all learning as we go." Indeed. 
+Despite everything I learned about CSS slideshows, Grid, Flexbox, and a dash of HTML5 (I used details/summary tags to show/hide the poems about Parker and Posie) I wasn't going to blog about it since I couldn't put it all in my new blog packaging. But then I read an affirming tweet today that said when it comes to acquiring knowledge, there's no shame in not knowing, only in remaining ignorant because "We're all learning as we go." Indeed. 
 
 Thanks for reading, and if you want to see the results of my knowledge acquisition, it's the newest addition to my portfolio page called [Ode to Parker and Posie](https://www.samanthamccallfp18.com/portfolio.html){:target="_blank"}. If you're a cat lover, stick around for the whole slide show. Parker and Posie are gone, but their brothers Snickers and Doodle were pretty cute kittens. :) 
