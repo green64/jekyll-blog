@@ -9,7 +9,7 @@ permalink: "/learning-as-we-go"
 
 ### My tribute-flexbox-new-blog experiment failed. And that's OK. 
 
-My blog image probably seems like an odd image &mdash; what's with the cats, amirite? This 
+My blog image probably seems like an odd choice &mdash; what's with the cats, amirite? This 
 post was actually inspired by the death of my cat Posie. I had her for 19 years, and although 
 it was time for her to go, I'm still sad. Her sister Parker died in 2013. 
 
