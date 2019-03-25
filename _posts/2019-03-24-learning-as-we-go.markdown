@@ -7,7 +7,7 @@ permalink: "/learning-as-we-go"
 
 ![image](https://www.samanthamccallfp18.com/assets/images/learning_as_we_go.jpg)
 
-### My tribute-flexbox-new-blog combo failed. And that's OK. 
+### My tribute-flexbox-new-blog experiment failed. And that's OK. 
 
 My blog image probably seems like an odd image &mdash; what's with the cats, amirite? This 
 post was actually inspired by the death of my cat Posie. I had her for 19 years, and although 
@@ -15,8 +15,8 @@ it was time for her to go, I'm still sad. Her sister Parker died in 2013.
 
 Since everything in my life right now seems to find its way back to dev learning, I thought my 
 tribute blog would be a great opportunity to combine some code I've seen but not tried writing. 
-My friend Patrick has been experimenting with CSS-based slideshows, animation and parallax 
-and created some really cool stuff. Then there's CSS Flexbox and CSS Grid. Switching blog formats has me thinking more about layout methods other than Bootstrap and Materialize. Throw in a little brush up on media queries, and this page could double as a useful learning exercise and a tribute to my sweet kitties Parker and Posie. What could go wrong? 
+My friend Patrick has been experimenting with CSS-based slideshows, animation, and parallax 
+and created some really cool stuff. Then there's CSS Flexbox and CSS Grid. Switching blog formats has made me thinking more about layout methods other than Bootstrap and Materialize. Throw in a little brush up on media queries, and this page could double as a useful learning exercise and a tribute to my sweet kitties Parker and Posie. What could go wrong? 
 
 In a word, time went wrong. As in, I don't have enough of it. My blog is great for minimally formatted markup text. And although I've found workarounds for some minor things, like opening links in a new page, I still haven't figured out the stylistic differences between creating a markup page and an HTML one in Jekyll. Like anything new in coding, it's going to require time to fully figure out the differences. And this week I wanted to spend my time on CSS Flexbox and Grid. 
 
@@ -24,7 +24,7 @@ In a word, time went wrong. As in, I don't have enough of it. My blog is great f
 
 Once I'd ditched the idea of a combo blog/tribute, I did learn a lot this week about using exclusive CSS for slideshows and layout. For starters, you can use the transition property or the animation property plus keyframes to create CSS slideshows. Since I was already enamored with Patrick's use of a zoom effect that's created by using hiding part of the image then slowly panning in, I followed his lead and used keyframes. 
 
-I also learned a lot about using CSS Grid and CSS Flexbox. What you lose in the convenience of using a Bootstrap or Materialize CDN you make up for in greater control and more understanding of everything happening on page &mdash; because you put it there. 
+I also learned a lot about using CSS Grid and CSS Flexbox. What you lose in the convenience of using a Bootstrap or Materialize CDN you make up for in greater control and more understanding of everything happening on the page &mdash; because you put it there. 
 
 I even learned you can give grid areas names, which comes in really handy at media query time. For example if you named the elements in your grid like this: 
 
