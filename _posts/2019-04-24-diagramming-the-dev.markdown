@@ -26,7 +26,7 @@ Here's to never forgetting the power of creativity to set us and our work apart.
 
 [My new page](https://www.samanthamccallfp18.com/posts/mashup.html){:target="_blank"} is imperfect. I already mentioned it's not uber responsive, because I've been trying to learn CSS Grid and Flexbox instead of relying on Bootstrap. There are other flaws too.
 
-But rather than dwell on shortcomings, I want to reiterate my personal motto, which I [blogged about here](https://medium.com/@samanthaadams.biz/hope-in-honest-error-e173a8e691c8){:target="_blank"}. I truly believe there is hope in honest error; some of the effects I experimented with here will no doubt pop up again in my work. And because it was honest, what mattered wasn't the polish and detail of an app destined for public use. What mattered was seeing how far I could carry an idea.
+But rather than dwell on shortcomings, it seems like a good time to reiterate [my personal motto](https://medium.com/@samanthaadams.biz/hope-in-honest-error-e173a8e691c8){:target="_blank"}. I truly believe there is hope in honest error; some of the effects I experimented with here will no doubt pop up again in my work. And because it was honest, what mattered wasn't the polish and detail of an app destined for public use. What mattered was seeing how far I could carry an idea.
 
 My next project is going in an entirely different direction, depending on what I decide to study next. PHP, Webkit, and TypeScript are in the running. I'm spending a few days in Seattle before I decide what's next ... maybe I'll come back with a completely new idea. Or a tattoo. :)
 
