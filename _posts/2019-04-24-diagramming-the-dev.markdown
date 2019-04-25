@@ -9,9 +9,9 @@ permalink: "/diagramming-the-dev"
 
 ### Sure it's creative. But what does it do
 
-If you've never just created something -- combined ideas, built a project around a single concept, acted on a whim -- I highly recommend it. My latest creation, a parody version of The 1975's "[Love It If We Made It](https://youtu.be/1Wl1B7DPegc){:target="_blank"}" combines my love of coding and music. It's taken me longer to create the page and write this blog than I wanted. But as it turns out, May marks a year since I started Fresh Perspective with "[When Worlds Collide](https://www.samanthamccallfp18.com/posts/archive_worlds.html){:target="_blank"}." 
+If you've never just created something &mdash; combined ideas, built a project around a single concept, acted on a whim &mdash; I highly recommend it. My latest creation, a parody version of The 1975's "[Love It If We Made It](https://youtu.be/1Wl1B7DPegc){:target="_blank"}" combines my love of coding and music. It took me longer to create my page and write this blog than I wanted. But as it turns out, May marks a year since my first Fresh Perspective post "[When Worlds Collide](https://www.samanthamccallfp18.com/posts/archive_worlds.html){:target="_blank"}." 
 
-So what the hell, I'm celebrating à la Weird Al.
+So what the hell, that's an accomplishment. And I'm celebrating à la Weird Al.
 
 
 My parody song page for "[I'd Comment But I'm Lazy](https://www.samanthamccallfp18.com/posts/mashup.html){:target="_blank"}" features my lyrics &mdash; scrolling or static. There are other CSS enhancements too, like a button set, limited responsiveness and a groovy webkit background. 
