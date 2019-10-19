@@ -15,9 +15,9 @@ When you think about it, the day-to-day details are important in every aspect of
 
 ### Day-to-day developing depends more on the small things
 
-As a junior developer, I never believed my first job would require me to build an industry-disrupting app right out of the gate. But as I wrap up year two of adding onto my own site and keeping my company’s website up-to-date, it’s clear to me that attention to detail, creative problem solving, and knowing where to find answers — however insignificant the questions — are invaluable developer skills. I’ve used them to build my own apps and solved more than one work conundrum with my “anti-disruptive” approach.
+As a junior developer, I never believed I'd be building industry-disrupting apps right out of the gate. But as I wrap up year two of building projects on my own site and maintaining my company’s website, intranet and blog, it’s clear to me that attention to detail, creative problem solving, and knowing where to find answers &mdash; however insignificant the questions &mdash; are invaluable developer skills. I’ve used them to build my own apps and solved more than one work conundrum with my “anti-disruptive” approach.
 
-### You don't need a Fast Company cover story to achieve success
+### Dev success isn't tied to Fast Company cover stories
 
 My development work to date isn't going to change lives. But site visitors see a comforting lock next to my URL that tells them it’s a [secure site](https://www.forbes.com/sites/forbestechcouncil/2018/05/18/why-an-ssl-certificate-is-important-for-your-company-website/#5dab86211dc3){:target="_blank"}. Their forms are submitted complete thanks to a dropdown menu tweak requiring them to choose a state instead of defaulting to the placeholder value. And they know what to expect when they click buttons and links because I use short words and phrases [written from a UX perspective](https://www.fastcompany.com/3026463/from-google-ventures-5-rules-for-writing-great-interface-copy){:target="_blank"}.
 
