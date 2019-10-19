@@ -15,7 +15,7 @@ When you think about it, the day-to-day details are important in every aspect of
 
 ### Day-to-day developing depends more on the small things
 
-As a junior developer, I never believed I'd be building industry-disrupting apps right out of the gate. But as I wrap up year two of building projects on my own site and maintaining my company’s website, intranet and blog, it’s clear to me that attention to detail, creative problem solving, and knowing where to find answers &mdash; however insignificant the questions &mdash; are invaluable developer skills. I’ve used them to build my own apps and solved more than one work conundrum with my “anti-disruptive” approach.
+As a junior developer, I never believed I'd be building industry-disrupting apps right out of the gate. But as I wrap up year two of building projects on my own site and maintaining my company’s website, intranet and blog, it’s clear to me that attention to detail, creative problem solving, and knowing where to find answers &mdash; however seemingly insignificant the questions &mdash; are invaluable developer skills. I’ve used them to build my own apps and solved more than one work conundrum with my “anti-disruptive” approach.
 
 ### Dev success isn't exclusive to Fast Company cover stories
 
