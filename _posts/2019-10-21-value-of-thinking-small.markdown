@@ -9,7 +9,7 @@ permalink: "/value-of-thinking-small"
 
 ### Coding class emphasized building the next big app
 
-When I earned my full-stack certificate our instructors wrapped up every group project presentation with mock awards for best use of a SPA, most disruptive app, etc. The categories were designed to push us as developers to try bigger, better solutions, which made sense in a learning environment. But after more than a year of real-life website management, I think the teaching team should’ve occasionally recognized “best minutia management.”
+When I earned my full-stack certificate our instructors wrapped up every group project presentation with mock awards for best use of a SPA, most disruptive app, etc. The categories were designed to push us as developers to try bigger, better solutions, which made sense in a learning environment. But knowing what I know now, I think the teaching team should’ve occasionally recognized “best minutia management.”
 
 When you think about it, the day-to-day details are important in every aspect of life. There’s no glory in filling potholes, but if roads fall apart nobody goes anywhere. The dishwasher is never summoned to the dining room after a fabulous meal &mdash; diners call for the chef. But without clean plates and utensils, the most amazing four-course dinner ever prepared would never make it off the stove. In the development world, the fastest, most responsive e-commerce website built might seem poised to attract thousands of users. But if that same site is missing a simple SSL certificate, savvy users will steer clear of its shopping cart.
 
