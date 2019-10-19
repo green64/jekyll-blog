@@ -13,7 +13,7 @@ When I earned my full-stack certificate our instructors wrapped up every group p
 
 When you think about it, the day-to-day details are important in every aspect of life. There’s no glory in filling potholes, but if roads fall apart nobody goes anywhere. The dishwasher is never summoned to the dining room after a fabulous meal &mdash; diners call for the chef. But without clean plates and utensils, the most amazing four-course dinner ever prepared would never make it off the stove. In the development world, the fastest, most responsive e-commerce website built might seem poised to attract thousands of users. But if that same site is missing a simple SSL certificate, savvy users will steer clear of its shopping cart.
 
-### Day-to-day developing depends more on the small things
+### Day-to-day developing often depends more on thinking small
 
 As a junior developer, I never believed I'd be building industry-disrupting apps right out of the gate. But as I wrap up year two of building projects on my own site and maintaining my company’s website, intranet and blog, it’s clear to me that attention to detail, creative problem solving, and knowing where to find answers &mdash; however seemingly insignificant the questions &mdash; are invaluable developer skills. I’ve used them to build my own apps and solved more than one work conundrum with my “anti-disruptive” approach.
 
