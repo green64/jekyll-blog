@@ -6,11 +6,7 @@ permalink: "/packages-dependencies-environments"
 ---
 
 ![image](https://www.samanthamccallfp18.com/assets/images/small_things_blog.jpg)
-![image]<div class="tenor-gif-embed" data-postid="4742057" data-share-method="host" data-width="100%" data-aspect-ratio="1.801801801801802"><a href="https://tenor.com/view/planes-trains-and-automobiles-steve-martin-neal-page-john-candy-del-griffith-gif-4742057">Planes Trains And Automobiles Steve Martin GIF</a> from <a href="https://tenor.com/search/planestrainsandautomobiles-gifs">Planestrainsandautomobiles GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
-
-<div class="tenor-gif-embed" data-postid="4742057" data-share-method="host" data-width="100%" data-aspect-ratio="1.801801801801802"><a href="https://tenor.com/view/planes-trains-and-automobiles-steve-martin-neal-page-john-candy-del-griffith-gif-4742057">Planes Trains And Automobiles Steve Martin GIF</a> from <a href="https://tenor.com/search/planestrainsandautomobiles-gifs">Planestrainsandautomobiles GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-git
 ### Coding class emphasized building the next big app
 
 When I earned my full-stack certificate our instructors wrapped up every group project presentation with mock awards for best use of a SPA, most disruptive app, etc. The categories were designed to push us as developers to try bigger, better solutions, which made sense in a learning environment. But knowing what I know now, I think the teaching team should’ve occasionally recognized “best minutiae management.”
