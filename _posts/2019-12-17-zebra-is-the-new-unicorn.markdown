@@ -31,6 +31,6 @@ Part of interviewing is your ability to stand out. I told myself if I interviewe
 
 But that was so 2017. Today I'd shift gears and talk about the less-flashy-but-still-sassy benefits of adding a zebra to the team. Because even if you're selling some very common-sense virtues &mdash; practicality, cooperation, sustainability &mdash; who doesn't love a compelling sales pitch? 
 
-You don't have to be a flying horse to have a unique skill set. It's a veritable no-brainer that companies in which employees band together can outdazzle the every-unicorn-for-himselfers. And when it comes to choosing whether to be ethical or profitable, the real black-and-white stripes on a real zebra are allegorical proof you can have both. 
+You don't have to be a flying horse to have a unique skill set. It's a veritable no-brainer that startups in which employees band together can outdazzle the every-unicorn-for-himselfers. And when it comes to choosing whether to be ethical or profitable, the black-and-white stripes on real zebras are allegorical proof you can have both.
 
 [Back to Fresh Perspective](https://www.samanthamccallfp18.com){:target="_blank"}
