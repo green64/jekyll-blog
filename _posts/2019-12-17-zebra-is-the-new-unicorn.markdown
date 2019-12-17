@@ -1,7 +1,7 @@
 ---
 layout: "post"
 title: Zebra is the New Unicorn
-date: 2019-12-16
+date: 2019-12-17
 permalink: "/zebra-is-the-new-unicorn"
 ---
 
