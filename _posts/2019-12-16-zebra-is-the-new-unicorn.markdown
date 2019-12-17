@@ -25,7 +25,7 @@ But just since WeWork's withdrawn IPO, less-than-favorable stories have surfaced
 ### Grab your stripes and get on board
 The lure of unicorns originated at the company level and eventually trickled down to individuals. The zebra mindset will too. I was never down with the be-disruptive-whatever-the-cost ethos. But I did see digital professionals with hybrid skill sets referred to as unicorns more than once. And I briefly contemplated wearing white ears, dressing in purple and adding a rainbow tail to my interview ensemble. 
 
-Part of interviewing is your ability to stand out, and I told myself if I interviewed a candidate who knew my business, asked informed questions and had the moxie to show up as a unicorn, I couldn't resist. In the end I was never that cheeky, but I did have a line in my cover letters comparing myself to unicorns, and I did get responses.
+Part of interviewing is your ability to stand out, and I told myself if I interviewed a candidate who knew my business, asked informed questions and had the moxie to show up as a unicorn, I'd give them a shot. In the end I was never that cheeky, but I did have a line in my cover letters comparing myself to unicorns, and I did get responses.
 
 But that was so 2017. Today I'd shift gears and talk about the less-flashy-but-still-sassy benefits of adding a zebra to the team. Because even if you're selling some very common-sense virtues &mdash; practicality, versatility, sustainability &mdash; who doesn't love a compelling sales pitch? You don't have to be a flying horse to have a unique skill set. And when it comes to choosing whether to be ethical or profitable, the real black-and-white stripes on a real zebra are allegorical proof you can have both. 
 
