@@ -1,36 +1,28 @@
 ---
 layout: "post"
-title: Zebra is the New Unicorn
-date: 2019-12-17
-permalink: "/zebra-is-the-new-unicorn"
+title: Wanna Be a Dev? You Need Rhino Skin
+date: 2020-02-29
+permalink: "/wanna-be-a-dev-you-need-rhino-skin"
 ---
 
-![image](https://www.samanthamccallfp18.com/assets/images/zebra_is_the_new_unicorn.png)
+![image](https://www.samanthamccallfp18.com/assets/images/rhino_skin.png)
 
-### Turns out pooping rainbows is overrated
-Once upon a time, in a startup environment that championed disruption and a fast buck over modest breakthroughs and sustainable growth, "unicorns" were all the rage. These rare companies that broke the rules and boosted their perceived value to $1 billion or more unleashed venture capitalists' greediest impulses. Some succeeded; others left trails of broke investors and disillusionment in their wake. [WeWork's recent meltdown](https://www.theatlantic.com/ideas/archive/2019/09/unicorn-delusion/598465){:target="_blank"} is the latest cautionary tale of believing too much in unicorns.
+### Tom Petty said it first. And best
+Lying in bed last night smarting from my latest job rejection, Tom Petty's words popped into my head. ["You need rhino skin | If you're gonna pretend | You're not hurt by this world."](https://youtu.be/jijAPsFRzQk){:target="_blank"} He was singing about love. Or the music industry. But he may as well have been singing about landing your first development job.
 
-### Unicorns aren't just reckless with money
-Facebook once epitomized unicorn mentality. But Zuckerberg's growth-at-all-costs mindset led his company to forge an unholy alliance with [Emerdata, nee Cambridge Analytica](https://www.theregister.co.uk/2018/05/02/cambridge_analytica_shutdown/){:target="_blank"}, which led to transatlantic election weaponization, and things got messy. By early 2017 the Zebra Manifesto was already getting people's attention by urgently calling for the creation of more smart companies capable of solving meaningful societal problems. Investors wiping the glitter from their eyes began to realize the fairy tale companies they dreamed of weren't exactly their mother's [unicorn](https://www.youtube.com/watch?v=_EPsuOEH1fY){:target="_blank"}.
+Two-and-a-half years into my journey to become a front-end developer, I've learned more languages, frameworks, concepts, workarounds, software and shortcuts than I can list. My bookmarked folders alone &mdash; not counting the thousands of pages saved within them &mdash; are up to 31 topics ranging from algorithms to Yarn (the package manager, not the stuff you crochet with). But there are thousands of tools out there, and I still only know a fraction of what there is to know. If you're just getting started or pondering a career switch to front-end, full-stack, or back-end development, here's some potentially useful advice.
 
-### Zebras introduce an alternate startup mindset
-"[Zebras fix what unicorns break](https://medium.com/@sexandstartups/zebrasfix-c467e55f9d96){:target="_blank"}," according to a Medium essay from the period that eschewed the nonchalance and gross profiteering promoted by unicorn culture. It argued that zebras, unlike unicorns, are real. They're mutualistic creatures that thrive by banding together rather than tying the entire herd's fate to any lone zebra. Even their collective name, a dazzle or zeal, reinforces the contrast between an ideology that thrives on monopoly vs one modeled on plurality.
+### Don't rely on recruiters
+I remember a guy in my full-stack program who'd been a recruiter say he'd decided to stop finding other people dev jobs and get one himself. I don't know if he ever succeeded, but I do know there are countless recruiters out there with little to no knowledge of the skills needed for the roles they get paid to fill. That's like finding someone to fill Spanish speaking roles who's never counted to ten in Espanol. Or a chef placing nuclear physicists in science-y jobs. On what planet does it make sense to talk to people about coding skills when you don't know your .net from fishnets?
 
-It's no accident the essay's contributing writers were all women. Since I ramped up my efforts to become a full-fledged developer three years ago, I've witnessed firsthand that men and women in the tech sphere have vastly different ideas about everything &mdash; from what constitutes a useful meetup to which programming skills are most valuable.
+And don't get me started on the ghosting! I've put aside a lack of knowledge to talk to numerous recruiters because that's just the way a lot of companies find developers now, and I've made good on my end of the deal over and over. Updating and reformatting resumes. Removing personal info  and replacing it with "represented by firm X." Altering and reorganizing my LinkedIn. Taking tests. Interviewing. Writing thank yous. Anxiously waiting. For every good-faith effort I've made, I can cite an example of a recruiter ghosting me somewhere in the process. When I read finger-wagging LinkedIn posts admonishing applicants to show up for interviews, I laugh out loud. Seriously. Recruiters, know thyself. Look inward. Own your piece of that problem.
 
-I've met talented women with emotional scars inflicted by men jealous of their programming skills, and other women hell-bent on eradicating the culture that tolerates such behavior (and men who are happy to help them create a more equal playing field). I'm totally biased, but in the long run, my money's on the zebras.
+### Be prepared &mdash; for anything
+Another pro tip for new developers is to have a [portfolio](https://www.samanthamccallfp18.com/portfolio.html){:target="_blank"}. And a [Github repo](https://github.com/green64){:target="_blank"}. And link those portfolio examples to that Github repo. Check, check and check. But guess what? I also have Google Analytics installed on my personal website so I can see my traffic, and hits seldom correspond with my interviews. I'm supposed to know everything I can about the company &mdash; often with a day's notice &mdash; but interviewers don't bother to look at my work examples or even read my resume. 
 
-It won't be easy weaning investors from their unicorn fantasies because the problems aren't just about profit vs. loss or male vs. female perspective; they're also about economic models and societal balance and workforce retraining and on and on.
+How do I know? Because I get the feedback "you didn't have skill X they wanted." Fair enough. But if anyone &mdash; the recruiter, the interviewer, an intern with nothing to do &mdash; had bothered to look at the company's wishlist and the skillset I submitted side by side they'd have known that before the interview was ever set up. Everyone's time would've been saved. And what about including those coveted skills in the job description? There's a novel idea! I'm super honest about what I know and don't know &mdash; I turn down interviews straight away when I realize I'm not qualified, and there's no padding or exaggeration in my resume or my portfolio. So when I get the "you just don't have the skills they want" follow-up, I just shake my head. 
 
-But just since WeWork's withdrawn IPO, less-than-favorable stories have surfaced about other unicorn icons, including [sexual assault during Uber rides](https://www.vox.com/2019/12/7/20998646/uber-safety-report-sexual-assault-lyft-cases){:target="_blank"} and Airbnb's brush with the [neo-Nazi group Iron March](https://gizmodo.com/airbnb-bans-over-60-white-supremacists-after-iron-march-1840420392){:target="_blank"}. One way or another, investors, CEOs, and the startups they launch have to work harder on making society better rather than rewarding its most base impulses.
-
-### Grab your stripes and get on board
-The lure of unicorns originated at the company level and eventually trickled down to individuals. The zebra mindset will too. I was never down with the be-disruptive-whatever-the-cost ethos. But I did see digital professionals with hybrid skill sets referred to as unicorns more than once. And I briefly contemplated wearing white ears, dressing in purple and adding a rainbow tail to my interview ensemble.
-
-Part of interviewing is your ability to stand out. I told myself if I interviewed a candidate who knew my business, asked informed questions and had the moxie to show up as a unicorn, I'd be compelled to give them a shot. In the end I was never that cheeky, but I did compare myself to a unicorn in cover letters, and I did get interviews based on them.
-
-But that was so 2017. Today I'd shift gears and talk about the less-flashy-but-still-sassy benefits of adding a zebra to the team. Because even if you're selling some very common-sense virtues &mdash; practicality, cooperation, sustainability &mdash; who doesn't love a compelling sales pitch?
-
-You don't have to be a mythical horse to have a unique skill set. It's a veritable no-brainer that startups in which employees band together can outdazzle the every-unicorn-for-himselfers. And when it comes to choosing between ethics or profitability, real zebras' black-and-white stripes are allegorical proof you can have both.
+### If you have to go down, go down swingin' 
+The same Tom Petty &amp; the Heartbreakers album that features Rhino Skin has another gem: [Swingin'](https://youtu.be/I4vJM4L2D2U){:target="_blank"}. It's another song about love, or life, or whatever you want it to be about. For me, the lyrics "She went down swingin'" translate perfectly: don't give up. No matter how ill-informed the recruiters. No matter how dismissive the interviewers. Find good mentors. Build your own network. Keep learning and growing. Never give up. Go down swingin'. Good luck. 
 
 [Back to Fresh Perspective](https://www.samanthamccallfp18.com){:target="_blank"}
