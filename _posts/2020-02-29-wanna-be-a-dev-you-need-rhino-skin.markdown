@@ -22,7 +22,7 @@ Another pro tip for new developers is to have a [portfolio](https://www.samantha
 
 How do I know? Because I get the feedback "you didn't have skill X they wanted." Fair enough. But if anyone &mdash; the recruiter, the interviewer, an intern with nothing to do &mdash; had bothered to look at the company's wishlist and the skillset I submitted side by side they'd have known that before the interview was ever set up. Everyone's time would've been saved. And what about including those coveted skills in the job description? There's a novel idea! I'm super honest about what I know and don't know &mdash; I turn down interviews straight away when I realize I'm not qualified, and there's no padding or exaggeration in my resume or my portfolio. So when I get the "you just don't have the skills they want" follow-up, I just shake my head. 
 
-### If you have to go down, go down swingin' 
+### Go down swingin' 
 The same Tom Petty &amp; the Heartbreakers album that features Rhino Skin has another gem: [Swingin'](https://youtu.be/I4vJM4L2D2U){:target="_blank"}. It's another song about love, or life, or whatever you want it to be about. For me, the lyrics "She went down swingin'" translate perfectly: don't give up. No matter how ill-informed the recruiters. No matter how dismissive the interviewers. Find good mentors. Build your own network. Keep learning and growing. Never give up. Go down swingin'. Good luck. 
 
 [Back to Fresh Perspective](https://www.samanthamccallfp18.com){:target="_blank"}
